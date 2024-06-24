@@ -59,8 +59,7 @@ Each command offers various options for specific behavior. Here's a breakdown:
 **Multithreading:**
 
 This project utilizes multithreading to improve performance for recursive operations in `ls` and `cp`. We've conducted time difference analysis to measure the impact of multithreading on execution speed.
-* Provide instructions on how to build and run the project. Mention any dependencies or requirements.
 
-**Contribution (Optional):**
-
-* If you welcome contributions, outline the contribution guidelines here.
+**Running the project**
+- make make_file.txt
+- ./shell
